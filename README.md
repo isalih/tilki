@@ -1,2 +1,2 @@
 # tilki
-tilki 
+demo control tilki.net
